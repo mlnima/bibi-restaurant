@@ -1,26 +1,24 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, {useState} from 'react';
+import Header from "./components/Header";
+import Navigation from "./components/Navigation";
+import {languagesTypes} from "./types";
+import GlobalStyles from "./global/styles/globalStyles";
+import MainPageRouter from "./routers/MainPageRouter";
+
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    const [activeLanguage, setActiveLanguage] = useState<languagesTypes>('DE')
+    return (
+
+            <div className="App">
+                <GlobalStyles/>
+                <Header activeLanguage={activeLanguage}/>
+                <Navigation activeLanguage={activeLanguage}
+                            languageOptions={['EN', 'DE', 'FA', 'AR']}
+                            setActiveLanguage={setActiveLanguage}/>
+                <MainPageRouter activeLanguage={activeLanguage}/>
+            </div>
+    );
 }
 
 export default App;

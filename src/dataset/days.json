@@ -1,0 +1,65 @@
+[
+  {
+    "id": 0,
+    "name": {
+      "EN": "Monday",
+      "DE": "Montag",
+      "FA": "دوشنبه",
+      "AR": "الاثنين"
+    }
+  },
+  {
+    "id": 1,
+    "name": {
+      "EN": "Tuesday",
+      "DE": "Dienstag",
+      "FA": "سه‌شنبه",
+      "AR": "الثلاثاء"
+    }
+  },
+  {
+    "id": 2,
+    "name": {
+      "EN": "Wednesday",
+      "DE": "Mittwoch",
+      "FA": "چهارشنبه",
+      "AR": "الأربعاء"
+    }
+  },
+  {
+    "id": 3,
+    "name": {
+      "EN": "Thursday",
+      "DE": "Donnerstag",
+      "FA": "پنج‌شنبه",
+      "AR": "الخميس"
+    }
+  },
+  {
+    "id": 4,
+    "name": {
+      "EN": "Friday",
+      "DE": "Freitag",
+      "FA": "جمعه",
+      "AR": "الجمعة"
+    }
+  },
+  {
+    "id": 5,
+    "name": {
+      "EN": "Saturday",
+      "DE": "Samstag",
+      "FA": "شنبه",
+      "AR": "السبت"
+    }
+  },
+  {
+    "id": 6,
+    "name": {
+      "EN": "Sunday",
+      "DE": "Sonntag",
+      "FA": "یک‌شنبه",
+      "AR": "الأحد"
+    }
+  }
+]

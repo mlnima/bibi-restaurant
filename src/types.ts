@@ -1,0 +1,1 @@
+export type languagesTypes = 'EN' | 'DE' | 'FA' | 'AR'

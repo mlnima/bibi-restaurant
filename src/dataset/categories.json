@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "EN": "Persian Specials",
+      "DE": "Persische Spezialitäten",
+      "FA": "لیست غذاها",
+      "AR": "قائمة الأطعمة الإيرانية"
+    },
+    "imageUrl": ""
+  },
+  {
+    "id": 2,
+    "name": {
+      "EN": "Vegetarian Dishes",
+      "DE": "Vegetarische Gerichte",
+      "FA": "غذاهای گیاهی (بدون گوشت)",
+      "AR": "أطباق نباتية (خالية من اللحوم)"
+    },
+    "imageUrl": ""
+  },
+  {
+    "id": 3,
+    "name": {
+      "EN": "Salads",
+      "DE": "Salate",
+      "FA": "سالادها",
+      "AR": "السلطات"
+    },
+    "imageUrl": ""
+  },
+  {
+    "id": 4,
+    "name": {
+      "EN": "Desserts and Ice Cream Specialties",
+      "DE": "Desserts und Eisspezialitäten",
+      "FA": "دسر و بستنی‌های ویژه",
+      "AR": "حلويات وأصناف الآيس كريم"
+    },
+    "imageUrl": ""
+  },
+  {
+    "id": 5,
+    "name": {
+      "EN": "Side Dishes",
+      "DE": "Beilagen",
+      "FA": "مخلفات",
+      "AR": "مقبلات"
+    },
+    "imageUrl": ""
+  },
+  {
+    "id": 6,
+    "name": {
+      "EN": "Non-Alcoholic Drinks",
+      "DE": "Alkoholfreie Getränke",
+      "FA": "نوشیدنی‌های بدون الکل",
+      "AR": "مشروبات غير كحولية"
+    },
+    "imageUrl": ""
+  },
+  {
+    "id": 7,
+    "name": {
+      "EN": "Hot Drinks",
+      "DE": "Heißgetränke",
+      "FA": "نوشیدنی‌های گرم",
+      "AR": "مشروبات ساخنة"
+    },
+    "imageUrl": ""
+  },
+  {
+    "id": 8,
+    "name": {
+      "EN": "Grill",
+      "DE": "Gegrillt",
+      "FA": "غذاهای کبابی",
+      "AR": "طعام مشوي"
+    },
+    "imageUrl": ""
+  },
+  {
+    "id": 9,
+    "name": {
+      "EN": "Fried",
+      "DE": "Gebraten",
+      "FA": "سرخ شده",
+      "AR": "المقلية"
+    },
+    "imageUrl": ""
+  },
+  {
+    "id": 10,
+    "name": {
+      "EN": "Extras",
+      "DE": "Extras",
+      "FA": "موارد اضافی",
+      "AR": "إضافات"
+    },
+    "imageUrl": ""
+  },
+  {
+    "id": 11,
+    "name": {
+      "EN": "Food Of The Day",
+      "DE": "Essen des Tages",
+      "FA": "غذای روز",
+      "AR": "طعام اليوم"
+    },
+    "imageUrl": ""
+  },
+  {
+    "id": 12,
+    "name": {
+      "EN": "Miscellaneous",
+      "DE": "Verschiedenes",
+      "FA": "متفرقه",
+      "AR": "متنوعات"
+    },
+    "imageUrl": ""
+  }
+]

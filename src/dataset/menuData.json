@@ -1,0 +1,801 @@
+[
+  {
+    "id": "1",
+    "categories": [3],
+    "name": {
+      "EN": "",
+      "DE": "Gemischter Salat mit Eisbergsalat, Gurken, Tomaten, Rote Bete und Mais",
+      "FA": "سالاد فصل کوچک",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "1b",
+    "categories": [3],
+    "name": {
+      "EN": "",
+      "DE": "Gemischter Salat mit Eisbergsalat, Gurken, Tomaten, Rote Bete und Mais(Groß)",
+      "FA": "سالاد فصل بزرگ",
+      "AR": ""
+    },
+    "price": "6"
+  },
+  {
+    "id": "2",
+    "categories": [3],
+    "name": {
+      "EN": "",
+      "DE": "Orientalischer Salat mit feingewürfelten Tomaten, Gurken und Zwiebeln, dazu\nOlivenöl und Limettensaft",
+      "FA": "سالاد شیرازی کوچک",
+      "AR": ""
+    },
+    "price": "3.00"
+  },
+  {
+    "id": "2b",
+    "categories": [3],
+    "name": {
+      "EN": "",
+      "DE": "Orientalischer Salat mit feingewürfelten Tomaten, Gurken und Zwiebeln, dazu\nOlivenöl und Limettensaft(Groß)",
+      "FA": "سالاد شیرازی بزرگ",
+      "AR": ""
+    },
+    "price": "4.50"
+  },
+  {
+    "id": "4",
+    "categories": [1,8],
+    "name": {
+      "EN": "",
+      "DE": "Hackspieß (Kubide) mit Reis oder Pommes und einer Beilage",
+      "FA": "چلوکباب مینی کوبیده با یک سیخ کباب کوبیده",
+      "AR": ""
+    },
+    "price": "6.5"
+  },
+  {
+    "id": "5",
+    "categories": [1,8],
+    "name": {
+      "EN": "",
+      "DE": "Hähnchenfiletspieß (Djuje) in Safran-Soße mariniert, mit Reis oder Pommes und\neiner Beilage",
+      "FA": "چلو جوجه مینی",
+      "AR": ""
+    },
+    "price": "6.50"
+  },
+  {
+    "id": "7",
+    "categories": [1,8],
+    "name": {
+      "EN": "",
+      "DE": "Zwei große Hackspieße (Kubide) mit Reis oder Pommes und einer Beilage",
+      "FA": "چلوکباب کوبیده دوسیخه",
+      "AR": ""
+    },
+    "price": "9.00"
+  },
+  {
+    "id": "9",
+    "categories": [1,8],
+    "name": {
+      "EN": "",
+      "DE": "Großer saftiger Hähnchenfiletspieß (Djuje) in Safran-Soße mariniert, mit Reis oder Pommes und einer Beilage",
+      "FA": "چلو جوجه کباب",
+      "AR": ""
+    },
+    "price": "9.00"
+  },
+  {
+    "id": "10",
+    "categories": [1,8],
+    "name": {
+      "EN": "",
+      "DE": "Hähnchenfiletspieß und Hackspieß (Djuje mit Kubide) mit Reis und einer Beilage",
+      "FA": "چلو جوجه با کوبیده",
+      "AR": ""
+    },
+    "price": "9.00"
+  },
+  {
+    "id": "12",
+    "categories": [1,8],
+    "name": {
+      "EN": "",
+      "DE": "Lammfiletstücke am Spieß (Tchenge) mit Reis oder Pommes und einer Beilage",
+      "FA": "چلوکباب چنجه",
+      "AR": ""
+    },
+    "price": "10.00"
+  },
+  {
+    "id": "13",
+    "categories": [1,8],
+    "name": {
+      "EN": "",
+      "DE": "Lammfiletspieß (Barg) mit Reis oder Pommes und einer Beilage",
+      "FA": "چلو کباب برگ",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "15",
+    "categories": [1,8],
+    "name": {
+      "EN": "",
+      "DE": "Gemischte Lammfiletstücke und Hähnchenfilet (Bakhtiari) mit Reis oder\nPommes und einer Beilage",
+      "FA": "چلوکباب بختیاری",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "17",
+    "categories": [1,8],
+    "name": {
+      "EN": "",
+      "DE": "Lammfiletspieß und Hähnchenfiletspieß oder Hackspiess (Soltani mit Kubide\noder Djuje) mit Reis oder Pommes und einer Beilage",
+      "FA": "چلو کباب سلطانی برگ و کوبیده یا برگ و جوجه",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "17a",
+    "categories": [1,8],
+    "name": {
+      "EN": "",
+      "DE": "Bibi Superfilet (Lammfiletspieß, mindestens 250 g Filet) mit Reis oder Pommes und einem kleinen orientalischen Salat oder einer Beilage",
+      "FA": "چلوکباب فیله سوپربی بی با حداقل 250 گرم فیله",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "18",
+    "categories": [1,8],
+    "name": {
+      "EN": "",
+      "DE": "Lachsfilet (9) mit Reis oder Pommes und einer Beilage oder einem orientalischen Salat",
+      "FA": "کباب ماهی لاکس با برنج یا سیب زمینی سرخ کرده و سالاد شیرازی",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "19",
+    "categories": [1,8],
+    "name": {
+      "EN": "",
+      "DE": "Grillteller bestehend aus einem Spieß Lammfiletstücke, einem großen Hähnchenfiletspieß, zwei Hackspießen und zwei Beilagen mit Reis oder Pommes",
+      "FA": "دیس کباب برای دو نفر با یک سیخ کباب چنجه و دو سیخ کوبیده ویک سیخ جوجه بزرگ با دو پرس برنج یا سیب زمینی سرخ کرده و یا نان به دلخواه",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "19a",
+    "categories": [1,8],
+    "name": {
+      "EN": "",
+      "DE": "Grillteller bestehend aus einem Spieß Lammfilet (Barg), einem großen Hähnchenfiletspieß, zwei Hackspießen und zwei Beilagen mit Reis oder Pommes",
+      "FA": "دیس کباب برای دو نفر با یک سیخ کباب برگ و دو سیخ کوبیده ویک سیخ جوجه بزرگ با دو پرس برنج یا سیب زمینی سرخ کرده و یا نان به دلخواه",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "20",
+    "categories": [1,9],
+    "name": {
+      "EN": "",
+      "DE": "Pommes Frites",
+      "FA": "زمینی سرخ کرده (پومس)",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "21",
+    "categories": [8,10],
+    "name": {
+      "EN": "",
+      "DE": "Gegrillter Hackspieß (Kubide)",
+      "FA": "یک سیخ کباب کوبیده اضافه",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "22",
+    "categories": [8,10],
+    "name": {
+      "EN": "",
+      "DE": "Gegrillter Hähnchenfiletspieß (Djuje)",
+      "FA": "یک سیخ جوجه کباب بزرگ اضافه",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "23",
+    "categories": [8,10],
+    "name": {
+      "EN": "",
+      "DE": "Gegrillte Lammfleischstücke (Tchenge)",
+      "FA": "یک سیخ کباب چنجه اضافه",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "24",
+    "categories": [8,10],
+    "name": {
+      "EN": "",
+      "DE": "Gegrillter Lammfiletspieß (Barg)",
+      "FA": "یک سیخ کباب برگ اضافه",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "25",
+    "categories": [10],
+    "name": {
+      "EN": "",
+      "DE": "Reis",
+      "FA": "برنج اضافه",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "25b",
+    "categories": [8,10],
+    "name": {
+      "EN": "",
+      "DE": "6 Grilltomaten-Hälften",
+      "FA": "یک سیخ گوجه اضافه",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "26",
+    "categories": [10],
+    "name": {
+      "EN": "",
+      "DE": "Auswahl Berberitzenreis oder Dillreis statt normalem Reis",
+      "FA": "انتخاب باقالی پلویا زرشک پلوبجای برنج سفید",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "26a",
+    "categories": [10],
+    "name": {
+      "EN": "",
+      "DE": "Frisches Brot",
+      "FA": "نان تازه",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "26b",
+    "categories": [3,10],
+    "name": {
+      "EN": "",
+      "DE": "Auswahl orientalischer Salat statt Joghurt mit Gurken oder Joghurt mit wildem Knoblauch",
+      "FA": "انتخاب سالاد شیرازی بجای ماست وخیار یا موسیر ویا سبزی",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "27",
+    "categories": [1,11],
+    "day": [2,4,6],
+    "name": {
+      "EN": "",
+      "DE": "Geschmorte Lammhaxe oder Lammhals (normal), dazu Dillreis mit dicken Bohnen und ein orientalischer Salat (Mittwoch, Freitag und Sonntag)",
+      "FA": "باقالی پلوباماهیچه یا گردن بره (متوسط) باسالاد شیرازی هرچهارشنبه وجمعه و یکشنبه",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "28",
+    "categories": [1],
+    "day": [2,4,6],
+    "name": {
+      "EN": "",
+      "DE": "Geschmorte Lammhaxe Oder Lammhals (groß), dazu Dillreis mit dicken Bohnen und ein orientalischer Salat (Mittwoch, Freitag und Sonntag)",
+      "FA": "باقالی پلو با ماهیچه یا گردن بره (بزرگ) با سالاد شیرازی",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "28a",
+    "categories": [1,11],
+    "day": [3],
+    "name": {
+      "EN": "",
+      "DE": "Geschmorte Hähnchenkeule oder -brust in Walnuss-Granatapfel-Soße, dazu Basmatireis und ein orientalischer Salat(Donnerstag)",
+      "FA": "چلو خورشت فسنجان با سالاد شیرازی هر پنجشنبه",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "29",
+    "categories": [1,11],
+    "day": [2,4,6],
+    "name": {
+      "EN": "",
+      "DE": "Geschmorte Hähnchenkeule oder –brust, dazu Dillreis mit dicken Bohnen und ein orientalischer Salat (Mittwoch &amp; Freitag und Sonntag)",
+      "FA": "باقالی پلوبا مرغ با سالاد شیرازی هر چهارشنبه و جمعه و یکشنبه",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "30",
+    "categories": [1],
+    "name": {
+      "EN": "",
+      "DE": "Geschmorte Hähnchenkeule oder -brust mit Berberitzenreis und einem orientalischen Salat",
+      "FA": "زرشک پلو با مرغ و سالادشیرازی",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "31",
+    "categories": [1],
+    "day": [1,5],
+    "name": {
+      "EN": "",
+      "DE": "Persisches Schmorgericht (Khoreshte Ghormehsabzi) Gekochtes Kalbsfleisch mit roten Bohnen in feiner persischer Kräuter-Soße, dazu Basmatireis und ein orientalischer Salat",
+      "FA": "چلو خورشت قورمه سبزی با سالاد شیرازی هرسه شنبه وشنبه",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "32",
+    "categories": [1],
+    "day": [0],
+    "name": {
+      "EN": "",
+      "DE": "Persisches Schmorgericht (Khoreshte Gheimeh Badenjun) Gekochtes Kalbsfleisch mit gelben Halberbsen in Tomaten-Safran- Soße und gebratenen Auberginen, dazu Basmatireis und ein orientalischer Salat",
+      "FA": "چلو خورشت قیمه بادنجان با سالاد شیرازی هردوشنبه",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "33",
+    "categories": [1],
+    "day": [4],
+    "name": {
+      "EN": "",
+      "DE": "",
+      "FA": "چلوخورشت کرفس باسالاد شیرازی هر جمعه",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "34",
+    "categories": [1,2],
+    "name": {
+      "EN": "",
+      "DE": "Feine Tomaten-Safran-Soße (Khoreshte Gheimeh) mit gelben Halberbsen, getrockneten Limetten und Pommes, dazu Basmatireis und ein orientalischer Salat",
+      "FA": "چلو خورشت قیمه بدون گوشت با سیب زمینی سرخ کرده یا سالاد شیرازی",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "35",
+    "categories": [1,2],
+    "name": {
+      "EN": "",
+      "DE": "Feine persische Kräuter-Soße (Khoreshte Ghormehsabzi) mit roten Bohnen und getrockneten Limetten, dazu Basmatireis und ein orientalischer Salat",
+      "FA": "چلو خورشت قورمه سبزی بدون گوشت با سالاد شیرازی",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "36",
+    "categories": [1,2],
+    "name": {
+      "EN": "",
+      "DE": "Aubergine mit Knoblauch-Quark-Soße (Kashke Badenjun), dazu Basmatireis oder Brot (7,8)",
+      "FA": "کشک بادنجان با نان یا برنج",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "37",
+    "categories": [4],
+    "name": {
+      "EN": "",
+      "DE": "Selbstgemachtes Tiramisu ohne Ei und Alkohol (7,8)",
+      "FA": "تیرا میسو بدون تخم مرغ و الکل",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "38",
+    "categories": [4],
+    "name": {
+      "EN": "",
+      "DE": "Selbstgemachtes persisches Eis (Bastani)",
+      "FA": "بستنی زعفرانی",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "39",
+    "categories": [4],
+    "name": {
+      "EN": "",
+      "DE": "Persisches Eis mit Pistazien (7,8,10)",
+      "FA": "بستنی زعفرانی با پسته",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "39a",
+    "categories": [4],
+    "name": {
+      "EN": "",
+      "DE": "Bibi Pistazieneis (7,8,10)",
+      "FA": "بستنی پسته ای بی بی",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "40",
+    "categories": [5],
+    "name": {
+      "EN": "",
+      "DE": "Joghurt (8)",
+      "FA": "ماست",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "40b",
+    "categories": [5],
+    "name": {
+      "EN": "",
+      "DE": "Joghurt (8)(Groß)",
+      "FA": "ماست بزرگ",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "41",
+    "categories": [5],
+    "name": {
+      "EN": "",
+      "DE": "Joghurt mit Gurken (Mastokhiar) (8)",
+      "FA": "ماست و خیار",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "41b",
+    "categories": [5],
+    "name": {
+      "EN": "",
+      "DE": "Joghurt mit Gurken (Mastokhiar) (8) (Groß)",
+      "FA": "ماست و خیار بزرگ",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "42",
+    "categories": [5],
+    "name": {
+      "EN": "",
+      "DE": "Joghurt mit wildem Knoblauch (Mastomusir) (8)",
+      "FA": "ماست و موسیر",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "42b",
+    "categories": [5],
+    "name": {
+      "EN": "",
+      "DE": "Joghurt mit wildem Knoblauch (Mastomusir) (8) (Groß)",
+      "FA": "ماست و موسیر بزرگ",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "43",
+    "categories": [5],
+    "name": {
+      "EN": "",
+      "DE": "Sauer eingelegtes Gemüse (Torshi)",
+      "FA": "ترشی",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "43b",
+    "categories": [5],
+    "name": {
+      "EN": "",
+      "DE": "Sauer eingelegtes Gemüse (Torshi) (Groß)",
+      "FA": "ترشی بزرگ",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "44",
+    "categories": [5],
+    "name": {
+      "EN": "",
+      "DE": "Salzig eingelegtes Gemüse",
+      "FA": "شور مخلوط",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "44b",
+    "categories": [5],
+    "name": {
+      "EN": "",
+      "DE": "Salzig eingelegtes Gemüse (Groß)",
+      "FA": "شور مخلوط بزرگ",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "45",
+    "categories": [5],
+    "name": {
+      "EN": "",
+      "DE": "Frische Kräuter (Sabzi)",
+      "FA": "سبزی",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "45b",
+    "categories": [5],
+    "name": {
+      "EN": "",
+      "DE": "Frische Kräuter (Sabzi) (Groß)",
+      "FA": "سبزی بزرگ",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "46",
+    "categories": [5],
+    "name": {
+      "EN": "",
+      "DE": "Schälchen große Oliven ",
+      "FA": "زیتون",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "46b",
+    "categories": [5],
+    "name": {
+      "EN": "",
+      "DE": "Schälchen große Oliven (Groß)",
+      "FA": "زیتون بزرگ",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "47",
+    "categories": [5],
+    "name": {
+      "EN": "",
+      "DE": "Salzgurken",
+      "FA": "خیار شور",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "47b",
+    "categories": [5],
+    "name": {
+      "EN": "",
+      "DE": "Salzgurken (Groß)",
+      "FA": "خیار شور بزرگ",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "48",
+    "categories": [5],
+    "name": {
+      "EN": "",
+      "DE": "Scharfe Sauce nach Bibi´s Rezept",
+      "FA": "سس تند بی بی",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "48b",
+    "categories": [5],
+    "name": {
+      "EN": "",
+      "DE": "Scharfe Sauce nach Bibi´s Rezept (Groß)",
+      "FA": "سس تند بی بی بزرگ",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "49",
+    "categories": [5],
+    "name": {
+      "EN": "",
+      "DE": "Champignon-Creme-Soße (7,8)",
+      "FA": "سس قارچ",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "49b",
+    "categories": [5],
+    "name": {
+      "EN": "",
+      "DE": "Champignon-Creme-Soße (7,8) (Groß)",
+      "FA": "سس قارچ بزرگ",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "52",
+    "categories": [6],
+    "name": {
+      "EN": "",
+      "DE": "Coca Cola, Coca Cola Light, Coca Cola Zero, Sprite, Fanta, Mezzo Mix 0,33l Flasche (1,2,3)",
+      "FA": "کولا،فانتا،اسپرایت،کولالایت،کولازیروشیشه ای 330 سی سیبدون گروِیی",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "53",
+    "categories": [6],
+    "name": {
+      "EN": "",
+      "DE": "Coca Cola, Coca Cola Light, Coca Cola Zero, Sprite, Fanta, Mezzo Mix 0,2l Flasche (1,2,3)",
+      "FA": "کولا، فانتا، اسپرایت ، کولا لایت ، کولا زیرو شیشه ای 200 سی سی بدون گرویی",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "54",
+    "categories": [6],
+    "name": {
+      "EN": "",
+      "DE": "Dugh oder Ayran 0,25l (8)",
+      "FA": "دوغ گازداریابدون گاز 250 سیسی",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "55",
+    "categories": [6],
+    "name": {
+      "EN": "",
+      "DE": "Dugh oder Ayran 0,4l (8)",
+      "FA": "دوغ گازدار یا بدون گاز 400 سی سی",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "57",
+    "categories": [6],
+    "name": {
+      "EN": "",
+      "DE": "Apfelsaft, Orangensaft 0,25l",
+      "FA": "آب سیب یاپرتقال 250 سیسی",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "58",
+    "categories": [6],
+    "name": {
+      "EN": "",
+      "DE": "Apfelsaft, Orangensaft 0,4l",
+      "FA": "آب سیب یاپرتقال 400 سیسی",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "59",
+    "categories": [6],
+    "name": {
+      "EN": "",
+      "DE": "Mineralwasser 0,5l",
+      "FA": "آب معدنی بطری 500 سی سی",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "50",
+    "categories": [7],
+    "name": {
+      "EN": "",
+      "DE": "Nespresso Kaffee",
+      "FA": "قهوه یا اسپرسو (از کپسول نسپرسو)",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "51",
+    "categories": [7],
+    "name": {
+      "EN": "",
+      "DE": "frischer minztee",
+      "FA": "انواع چای گیاهی یا چای میوه",
+      "AR": ""
+    },
+    "price": ""
+  },
+  {
+    "id": "63",
+    "categories": [7],
+    "name": {
+      "EN": "",
+      "DE": "safrantee",
+      "FA": "چای زعفران",
+      "AR": ""
+    },
+    "price": ""
+  }
+]
