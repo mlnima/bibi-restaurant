@@ -7,16 +7,15 @@
   },
   "address": "Halemweg 17, 13627 Berlin",
   "tel": "03052669566",
-  "workingHours": {
-     "1": "11:30AM - 10PM",
-     "2": "11:30AM - 10PM",
-     "3": "11:30AM - 10PM",
-     "4": "11:30AM - 10PM",
-     "5": "11:30AM - 11PM",
-     "6": "11:30AM - 11PM",
-     "0": "10:30AM - 10PM"
-
-  },
+  "workingHours": [
+    {"day": 1, "hours": "11:30AM - 10PM"},
+    {"day": 2, "hours": "11:30AM - 10PM"},
+    {"day": 3, "hours": "11:30AM - 10PM"},
+    {"day": 4, "hours": "11:30AM - 10PM"},
+    {"day": 5, "hours": "11:30AM - 11PM"},
+    {"day": 6, "hours": "11:30AM - 11PM"},
+    {"day": 0, "hours": "10:30AM - 10PM"}
+  ],
   "importantNotes": [
     {
       "EN": "",

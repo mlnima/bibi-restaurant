@@ -43,7 +43,7 @@ const Navigation: FC<PropTypes> = (
             <div className={'openingHoursToday'}>
                 {/*{days[today].name[activeLanguage]}:*/}
                 {/*//@ts-ignore*/}
-                {restaurantData.workingHours[today]}
+                {restaurantData.workingHours[today].hours}
             </div>
             <LanguageSelector languageOptions={languageOptions}
                               setActiveLanguage={setActiveLanguage}

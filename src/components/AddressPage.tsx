@@ -44,11 +44,11 @@ const AddressPage: FC<PropTypes> = ({activeLanguage}) => {
         <Style>
             <p>Halemweg 17, 13627 Berlin, Germany Tel:030 52669566</p>
             <div className={'workingHoursInWeek'}>
-                {Object.entries(restaurantData.workingHours).map(([dayIndex, hours]) => {
+                {restaurantData.workingHours.map((workingDay,index) => {
                     return <div>
                         {/*//@ts-ignore*/}
-                        <p>{days[dayIndex].name[activeLanguage]}</p>
-                        <p>{hours}</p>
+                        <p>{days[workingDay.day].name[activeLanguage]}</p>
+                        <p>{workingDay.hours}</p>
                     </div>
                 })}
             </div>
