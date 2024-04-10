@@ -11,21 +11,22 @@
     },
     {
       "name": {
-        "EN": "Privacy",
-        "DE": "Datenschutzerklärung",
-        "FA": "حفاظت از داده ها",
-        "AR": "سياسة الخصوصية"
-      },
-      "url": "/data-privacy"
-    },
-    {
-      "name": {
         "EN": "Address",
         "DE": "Adresse",
         "FA": "آدرس",
         "AR": "عنوان"
       },
       "url": "/address"
+    },
+    {
+      "name": {
+        "EN": "Privacy",
+        "DE": "Datenschutzerklärung",
+        "FA": "حفاظت از داده ها",
+        "AR": "سياسة الخصوصية"
+      },
+      "url": "/data-privacy"
     }
+
   ]
 }

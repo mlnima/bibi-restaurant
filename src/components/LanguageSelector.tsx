@@ -3,7 +3,10 @@ import styled from "styled-components";
 import {languagesTypes} from "../types";
 
 const Style = styled.select`
-   width: 4rem!important;
+   width: 5rem!important;
+
+  justify-self: end;
+  align-self: center;
 `;
 
 interface PropTypes {

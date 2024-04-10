@@ -2,6 +2,15 @@
   {
     "id": 0,
     "name": {
+      "EN": "Sunday",
+      "DE": "Sonntag",
+      "FA": "یکشنبه",
+      "AR": "الأحد"
+    }
+  },
+  {
+    "id": 1,
+    "name": {
       "EN": "Monday",
       "DE": "Montag",
       "FA": "دوشنبه",
@@ -9,7 +18,7 @@
     }
   },
   {
-    "id": 1,
+    "id": 2,
     "name": {
       "EN": "Tuesday",
       "DE": "Dienstag",
@@ -18,7 +27,7 @@
     }
   },
   {
-    "id": 2,
+    "id": 3,
     "name": {
       "EN": "Wednesday",
       "DE": "Mittwoch",
@@ -27,16 +36,16 @@
     }
   },
   {
-    "id": 3,
+    "id": 4,
     "name": {
       "EN": "Thursday",
       "DE": "Donnerstag",
-      "FA": "پنج‌شنبه",
+      "FA": "پنجشنبه",
       "AR": "الخميس"
     }
   },
   {
-    "id": 4,
+    "id": 5,
     "name": {
       "EN": "Friday",
       "DE": "Freitag",
@@ -45,21 +54,13 @@
     }
   },
   {
-    "id": 5,
+    "id": 6,
     "name": {
       "EN": "Saturday",
       "DE": "Samstag",
       "FA": "شنبه",
       "AR": "السبت"
     }
-  },
-  {
-    "id": 6,
-    "name": {
-      "EN": "Sunday",
-      "DE": "Sonntag",
-      "FA": "یک‌شنبه",
-      "AR": "الأحد"
-    }
   }
+
 ]

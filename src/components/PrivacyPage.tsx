@@ -16,7 +16,7 @@ interface PropTypes {
 const PrivacyPage: FC<PropTypes> = ({}) => {
     return (
         <Style>
-            <img src="/Datenschutzerklärung.png" alt="logo"/>
+            <img src={`${process.env.PUBLIC_URL}/Datenschutzerklärung.png`} alt="logo"/>
         </Style>
     )
 };

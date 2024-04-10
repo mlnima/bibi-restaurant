@@ -2,18 +2,24 @@ import {FC, useState} from "react";
 import styled from "styled-components";
 import {languagesTypes} from "../types";
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
-import {faBars} from "@fortawesome/free-solid-svg-icons";
+import {faBars, faTimes} from "@fortawesome/free-solid-svg-icons";
 import burgerMenuData from '../dataset/burgerMenuData.json'
 import { Link } from "react-router-dom";
 
-const Style = styled.div`
-    .openCloseBurgerMenuBtn{
+interface IStyles{
+    isOpen:boolean
+}
+
+const Style = styled.div<IStyles>`
+    .openBurgerMenuBtn, .closeBurgerMenuBtn{
+      color: var(--primary-background-color);
       svg{
         width: 2rem;
         height: 2rem;
       }
     }
   .menuItems{
+    display:${({isOpen})=> isOpen?'flex':'none'};
     flex-direction: column;
     width: 300px;
     position: fixed;
@@ -21,6 +27,13 @@ const Style = styled.div`
     top: 0;
     bottom: 0;
     background-color: var(--primary-active-color);
+    
+    .closeBurgerMenuBtn{
+      display: flex;
+      justify-content: flex-end;
+    }
+    
+    
     .menuItem{
       color: var(--primary-background-color);
       display: inline-block;
@@ -41,7 +54,7 @@ const Style = styled.div`
   }
   
   @media only screen and (min-width: 768px){
-    .openCloseBurgerMenuBtn{
+    .openBurgerMenuBtn, .closeBurgerMenuBtn{
       display: none;
     }
     .menuItems{
@@ -49,6 +62,9 @@ const Style = styled.div`
       flex-direction: row;
       position: initial;
       //gap: 1rem;
+      .closeBurgerMenuBtn{
+        display: none;
+      }
     }
   }
     
@@ -66,17 +82,25 @@ declare type menuItem={
 }
 
 const BurgerMenu: FC<PropTypes> = ({activeLanguage}) => {
-    const [isOpen,setIsOpen] = useState<boolean>(true)
+    const [isOpen,setIsOpen] = useState<boolean>(false)
+    const isGitHubPages = window.location.hostname.includes('github.io');
 
     return (
-        <Style>
-            <button className={'openCloseBurgerMenuBtn btn btn-transparent'}
-                    onClick={()=>setIsOpen(!isOpen)}>
+        <Style isOpen={isOpen}>
+            <button className={'openBurgerMenuBtn btn btn-transparent'}
+                    onClick={()=>setIsOpen(true)}>
                 <FontAwesomeIcon icon={faBars}/>
             </button>
-            <div className={'menuItems'} style={{display:isOpen? 'flex':'none'}}>
+
+            <div className={'menuItems'} >
+                <button className={'closeBurgerMenuBtn btn btn-transparent'} onClick={()=>setIsOpen(false)}>
+                    <FontAwesomeIcon icon={faTimes}/>
+                </button>
+
                 {burgerMenuData.items.map((item:menuItem)=>{
-                    return <Link className={'menuItem'} to={item.url}>
+                    return <Link className={'menuItem'}
+                                 onClick={()=>setIsOpen(false)}
+                                 to={item.url}>
                         {item.name[activeLanguage]}
                     </Link>
                 })}

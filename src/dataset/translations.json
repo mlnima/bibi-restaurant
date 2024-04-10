@@ -1,0 +1,50 @@
+{
+  "FoodOfTheDayMessage":    {
+    "EN": "Food of The Day",
+    "DE": "Essen des Tages",
+    "FA": "غذای روز",
+    "AR": "طعام اليوم"
+  },
+  "FoodMenu":    {
+    "EN": "Menu",
+    "DE": "Speisekarte",
+    "FA": "منو",
+    "AR": "قائمة طعام"
+  },
+  "Categories":    {
+    "EN": "Categories",
+    "DE": "Kategorien",
+    "FA": "دسته بندی ها",
+    "AR": "فئات"
+  },
+  "Today":    {
+    "EN": "Today",
+    "DE": "Heute",
+    "FA": "امروز",
+    "AR": "اليوم"
+  },
+  "TakeAway": {
+    "EN": "Take Away",
+    "DE": "Zum Mitnehmen",
+    "FA": "بیرون بردن",
+    "AR": "خذ بعيدا"
+  },
+  "EatingInside": {
+    "EN": "Eat In ",
+    "DE": "Essen im Restaurant ",
+    "FA": "داخل رستوران ",
+    "AR": "تناول الطعام في المطعم "
+  },
+  "FoodMenu": {
+    "EN": "Menu ",
+    "DE": "Speisekarte ",
+    "FA": "لیست غذاها",
+    "AR": "قائمة الطعام "
+  },
+  "ID": {
+    "EN": "ID",
+    "DE": "Nr.",
+    "FA": "شماره",
+    "AR": "رقم"
+  }
+}

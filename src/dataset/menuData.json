@@ -3,799 +3,819 @@
     "id": "1",
     "categories": [3],
     "name": {
-      "EN": "",
+      "EN": "Mixed salad with iceberg lettuce, cucumbers, tomatoes, beets, and corn",
       "DE": "Gemischter Salat mit Eisbergsalat, Gurken, Tomaten, Rote Bete und Mais",
       "FA": "سالاد فصل کوچک",
-      "AR": ""
+      "AR": "سلطة مختلطة مع الخس الآيسبرج، الخيار، الطماطم، الشمندر، والذرة"
     },
-    "price": ""
+    "price": "6.00",
+    "pickupPrice": "5.50"
   },
   {
     "id": "1b",
     "categories": [3],
     "name": {
-      "EN": "",
+      "EN": "Large mixed salad with iceberg lettuce, cucumbers, tomatoes, beets, and corn",
       "DE": "Gemischter Salat mit Eisbergsalat, Gurken, Tomaten, Rote Bete und Mais(Groß)",
       "FA": "سالاد فصل بزرگ",
-      "AR": ""
+      "AR": "سلطة مختلطة كبيرة مع الخس الآيسبرج، الخيار، الطماطم، الشمندر، والذرة"
     },
-    "price": "6"
+    "price": "8.00",
+    "pickupPrice": "7.00"
   },
   {
     "id": "2",
     "categories": [3],
     "name": {
-      "EN": "",
-      "DE": "Orientalischer Salat mit feingewürfelten Tomaten, Gurken und Zwiebeln, dazu\nOlivenöl und Limettensaft",
+      "EN": "Oriental salad with finely diced tomatoes, cucumbers, and onions, served with olive oil and lime juice",
+      "DE": "Orientalischer Salat mit feingewürfelten Tomaten, Gurken und Zwiebeln, dazu Olivenöl und Limettensaft",
       "FA": "سالاد شیرازی کوچک",
-      "AR": ""
+      "AR": "سلطة شرقية بطماطم مقطعة ناعمة، خيار، وبصل، مقدمة مع زيت الزيتون وعصير الليمون"
     },
-    "price": "3.00"
+    "price": "4.00",
+    "pickupPrice": "3.50"
   },
   {
     "id": "2b",
     "categories": [3],
     "name": {
-      "EN": "",
-      "DE": "Orientalischer Salat mit feingewürfelten Tomaten, Gurken und Zwiebeln, dazu\nOlivenöl und Limettensaft(Groß)",
+      "EN": "Large oriental salad with finely diced tomatoes, cucumbers, and onions, served with olive oil and lime juice",
+      "DE": "Orientalischer Salat mit feingewürfelten Tomaten, Gurken und Zwiebeln, dazu Olivenöl und Limettensaft(Groß)",
       "FA": "سالاد شیرازی بزرگ",
-      "AR": ""
+      "AR": "سلطة شرقية كبيرة بطماطم مقطعة ناعمة، خيار، وبصل، مقدمة مع زيت الزيتون وعصير الليمون"
     },
-    "price": "4.50"
+    "price": "6.00",
+    "pickupPrice": "5.50"
   },
   {
     "id": "4",
     "categories": [1,8],
     "name": {
-      "EN": "",
+      "EN": "Ground lamb skewer (Kubide) with rice or fries and one side dish",
       "DE": "Hackspieß (Kubide) mit Reis oder Pommes und einer Beilage",
       "FA": "چلوکباب مینی کوبیده با یک سیخ کباب کوبیده",
-      "AR": ""
+      "AR": "سيخ لحم خروف مطحون (كباب) مع أرز أو بطاطا مقلية وجانب واحد"
     },
-    "price": "6.5"
+    "price": "9.50",
+    "pickupPrice": "8.50"
   },
   {
     "id": "5",
     "categories": [1,8],
     "name": {
-      "EN": "",
-      "DE": "Hähnchenfiletspieß (Djuje) in Safran-Soße mariniert, mit Reis oder Pommes und\neiner Beilage",
+      "EN": "Marinated chicken fillet skewer (Djuje) in saffron sauce, with rice or fries and one side dish",
+      "DE": "Hähnchenfiletspieß (Djuje) in Safran-Soße mariniert, mit Reis oder Pommes und einer Beilage",
       "FA": "چلو جوجه مینی",
-      "AR": ""
+      "AR": "سيخ دجاج متبل بصلصة الزعفران، مع أرز أو بطاطا مقلية وجانب واحد"
     },
-    "price": "6.50"
+    "price": "9.50",
+    "pickupPrice": "8.50"
   },
   {
     "id": "7",
     "categories": [1,8],
     "name": {
-      "EN": "",
+      "EN": "Two skewers of minced meat (Kubide) with rice or fries and a side dish",
       "DE": "Zwei große Hackspieße (Kubide) mit Reis oder Pommes und einer Beilage",
       "FA": "چلوکباب کوبیده دوسیخه",
-      "AR": ""
+      "AR": "اثنان من أعواد لحم البقر المفروم (كباب) مع أرز أو بطاطس مقلية وجانب واحد"
     },
-    "price": "9.00"
+    "price": "14.00",
+    "pickupPrice": "12.50"
   },
   {
     "id": "9",
     "categories": [1,8],
     "name": {
-      "EN": "",
+      "EN": "Large succulent chicken fillet skewer (Djuje) marinated in saffron sauce, served with rice or fries and a side dish",
       "DE": "Großer saftiger Hähnchenfiletspieß (Djuje) in Safran-Soße mariniert, mit Reis oder Pommes und einer Beilage",
       "FA": "چلو جوجه کباب",
-      "AR": ""
+      "AR": "سيخ دجاج مشوي كبير الحجم (جوجه) متبل بصلصة الزعفران، مع أرز أو بطاطس مقلية وجانب واحد"
     },
-    "price": "9.00"
+    "price": "14.00",
+    "pickupPrice": "12.50"
   },
   {
     "id": "10",
     "categories": [1,8],
     "name": {
-      "EN": "",
+      "EN": "Chicken fillet skewer and minced meat skewer (Djuje with Kubide) served with rice and a side dish",
       "DE": "Hähnchenfiletspieß und Hackspieß (Djuje mit Kubide) mit Reis und einer Beilage",
       "FA": "چلو جوجه با کوبیده",
-      "AR": ""
+      "AR": "سيخ دجاج مشوي وسيخ لحم مفروم (دجاج مع كبيده) مقدمة مع الأرز وجانب"
     },
-    "price": "9.00"
+    "price": "14.00",
+    "pickupPrice": "12.50"
   },
   {
     "id": "12",
     "categories": [1,8],
-    "name": {
-      "EN": "",
+    "name":{
+      "EN": "Lamb skewers (Tchenge) with rice or fries and a side dish",
       "DE": "Lammfiletstücke am Spieß (Tchenge) mit Reis oder Pommes und einer Beilage",
       "FA": "چلوکباب چنجه",
-      "AR": ""
+      "AR": "أعواد لحم الضأن (تشنجه) مع أرز أو بطاطس مقلية وجانب"
     },
-    "price": "10.00"
+    "price": "16.00",
+    "pickupPrice": "15.00"
   },
   {
     "id": "13",
     "categories": [1,8],
     "name": {
-      "EN": "",
+      "EN": "Lamb skewer (Barg) with rice or fries and a side dish",
       "DE": "Lammfiletspieß (Barg) mit Reis oder Pommes und einer Beilage",
       "FA": "چلو کباب برگ",
-      "AR": ""
+      "AR": "سيخ لحم الضأن (برغ) مع أرز أو بطاطس مقلية وجانب"
     },
-    "price": ""
+    "price": "18.00",
+    "pickupPrice": "16.00"
   },
   {
     "id": "15",
     "categories": [1,8],
     "name": {
-      "EN": "",
+      "EN": "Mixed lamb fillet pieces and chicken fillet (Bakhtiari) with rice or fries and a side dish",
       "DE": "Gemischte Lammfiletstücke und Hähnchenfilet (Bakhtiari) mit Reis oder\nPommes und einer Beilage",
       "FA": "چلوکباب بختیاری",
-      "AR": ""
+      "AR": "قطع لحم الضأن المختلطة وصدور الدجاج (بختياري) مع أرز أو بطاطس مقلية وجانب"
     },
-    "price": ""
+    "price": "18.00",
+    "pickupPrice": "17.00"
   },
   {
     "id": "17",
     "categories": [1,8],
     "name": {
-      "EN": "",
-      "DE": "Lammfiletspieß und Hähnchenfiletspieß oder Hackspiess (Soltani mit Kubide\noder Djuje) mit Reis oder Pommes und einer Beilage",
+      "EN": "Lamb skewer and chicken skewer or minced meat skewer (Soltani with Kubide or Djuje) with rice or fries and a side dish",
+      "DE": "Lammfiletspieß und Hähnchenfiletspieß oder Hackspiess (Soltani mit Kubide oder Djuje) mit Reis oder Pommes und einer Beilage",
       "FA": "چلو کباب سلطانی برگ و کوبیده یا برگ و جوجه",
-      "AR": ""
+      "AR": "سيخ لحم الضأن وسيخ صدور الدجاج أو سيخ لحم مفروم (سلطاني مع كبابي أو دجاج) مع أرز أو بطاطس مقلية وجانب"
     },
-    "price": ""
+    "price": "22.00",
+    "pickupPrice": "20.00"
   },
   {
     "id": "17a",
     "categories": [1,8],
     "name": {
-      "EN": "",
+      "EN": "Bibi Superfilet (lamb fillet skewer, minimum 250 g fillet) with rice or fries and a small oriental salad or side dish",
       "DE": "Bibi Superfilet (Lammfiletspieß, mindestens 250 g Filet) mit Reis oder Pommes und einem kleinen orientalischen Salat oder einer Beilage",
       "FA": "چلوکباب فیله سوپربی بی با حداقل 250 گرم فیله",
-      "AR": ""
+      "AR": "بيبي سوبرفيليت (سيخ لحم الضأن، حد أدنى 250 جم فيليه) مع أرز أو بطاطس مقلية وسلطة شرقية صغيرة أو طبق جانبي"
     },
-    "price": ""
+    "price": "27.00",
+    "pickupPrice": "24.00"
   },
   {
     "id": "18",
     "categories": [1,8],
     "name": {
-      "EN": "",
+      "EN": "Salmon fillet (9) with rice or fries and a side dish or an oriental salad",
       "DE": "Lachsfilet (9) mit Reis oder Pommes und einer Beilage oder einem orientalischen Salat",
       "FA": "کباب ماهی لاکس با برنج یا سیب زمینی سرخ کرده و سالاد شیرازی",
-      "AR": ""
+      "AR": "سمك السلمون المشوي مع الأرز أو البطاطس المقلية وجانب أو سلطة شرقية"
     },
-    "price": ""
+    "price": "18.00",
+    "pickupPrice": "16.00"
   },
   {
     "id": "19",
     "categories": [1,8],
     "name": {
-      "EN": "",
+      "EN": "Mixed grill platter for two with one skewer of lamb fillet pieces, one large chicken skewer, two minced meat skewers, and two side dishes with rice or fries, or bread as desired",
       "DE": "Grillteller bestehend aus einem Spieß Lammfiletstücke, einem großen Hähnchenfiletspieß, zwei Hackspießen und zwei Beilagen mit Reis oder Pommes",
       "FA": "دیس کباب برای دو نفر با یک سیخ کباب چنجه و دو سیخ کوبیده ویک سیخ جوجه بزرگ با دو پرس برنج یا سیب زمینی سرخ کرده و یا نان به دلخواه",
-      "AR": ""
+      "AR": "طبق شواء مختلط لشخصين يحتوي على سيخ واحد من قطع لحم الضأن، وسيخ كبير لصدور الدجاج، وسيخين من لحم مفروم، وجانبين من الأرز أو البطاطس المقلية، أو الخبز حسب الرغبة"
     },
-    "price": ""
+    "price": "40.00",
+    "pickupPrice": "35.00"
   },
   {
     "id": "19a",
     "categories": [1,8],
     "name": {
-      "EN": "",
+      "EN": "Mixed grill platter for two with one skewer of lamb fillet (Barg), one large chicken skewer, two minced meat skewers, and two side dishes with rice or fries",
       "DE": "Grillteller bestehend aus einem Spieß Lammfilet (Barg), einem großen Hähnchenfiletspieß, zwei Hackspießen und zwei Beilagen mit Reis oder Pommes",
       "FA": "دیس کباب برای دو نفر با یک سیخ کباب برگ و دو سیخ کوبیده ویک سیخ جوجه بزرگ با دو پرس برنج یا سیب زمینی سرخ کرده و یا نان به دلخواه",
-      "AR": ""
+      "AR": "طبق شواء مشكل لشخصين يحتوي على سيخ واحد من قطع لحم الضأن (برغ)، وسيخ كبير لصدور الدجاج، وسيخين من لحم مفروم، وجانبين من الأرز أو البطاطس المقلية"
     },
-    "price": ""
+    "price": "42.00",
+    "pickupPrice": "37.00"
   },
   {
     "id": "20",
     "categories": [1,9],
     "name": {
-      "EN": "",
+      "EN": "French Fries",
       "DE": "Pommes Frites",
       "FA": "زمینی سرخ کرده (پومس)",
-      "AR": ""
+      "AR": "بطاطس مقلية"
     },
-    "price": ""
+    "price": "4.50",
+    "pickupPrice": "4.00"
   },
   {
     "id": "21",
     "categories": [8,10],
     "name": {
-      "EN": "",
+      "EN": "Grilled minced meat skewer (Kubide)",
       "DE": "Gegrillter Hackspieß (Kubide)",
       "FA": "یک سیخ کباب کوبیده اضافه",
-      "AR": ""
+      "AR": "سيخ لحم مفروم مشوي (كبيده)"
     },
-    "price": ""
+    "price": "5.00",
+    "pickupPrice": "4.50"
   },
   {
     "id": "22",
     "categories": [8,10],
     "name": {
-      "EN": "",
+      "EN": "Grilled chicken fillet skewer (Djuje)",
       "DE": "Gegrillter Hähnchenfiletspieß (Djuje)",
       "FA": "یک سیخ جوجه کباب بزرگ اضافه",
-      "AR": ""
+      "AR": "سيخ صدور الدجاج المشوية (جوجه)"
     },
-    "price": ""
+    "price": "9.50",
+    "pickupPrice": "8.00"
   },
   {
     "id": "23",
     "categories": [8,10],
     "name": {
-      "EN": "",
+      "EN": "Grilled lamb meat pieces (Tchenge)",
       "DE": "Gegrillte Lammfleischstücke (Tchenge)",
       "FA": "یک سیخ کباب چنجه اضافه",
-      "AR": ""
+      "AR": "قطع لحم الضأن المشوي (تشنجه)"
     },
-    "price": ""
+    "price": "13.00",
+    "pickupPrice": "11.00"
   },
   {
     "id": "24",
     "categories": [8,10],
     "name": {
-      "EN": "",
+      "EN": "Grilled lamb fillet skewer (Barg)",
       "DE": "Gegrillter Lammfiletspieß (Barg)",
       "FA": "یک سیخ کباب برگ اضافه",
-      "AR": ""
+      "AR": "سيخ صدور اللحم الضأن المشوية (برغ)"
     },
-    "price": ""
+    "price": "15.00",
+    "pickupPrice": "12.00"
   },
   {
     "id": "25",
     "categories": [10],
     "name": {
-      "EN": "",
+      "EN": "Rice",
       "DE": "Reis",
       "FA": "برنج اضافه",
-      "AR": ""
+      "AR": "أرز"
     },
-    "price": ""
+    "price": "4.00",
+    "pickupPrice": "3.00"
   },
   {
     "id": "25b",
     "categories": [8,10],
     "name": {
-      "EN": "",
+      "EN": "6 grilled tomato halves",
       "DE": "6 Grilltomaten-Hälften",
       "FA": "یک سیخ گوجه اضافه",
-      "AR": ""
+      "AR": "ستة أنصاف طماطم مشوية"
     },
-    "price": ""
+    "price": "4.50",
+    "pickupPrice": "4.00"
   },
   {
     "id": "26",
     "categories": [10],
     "name": {
-      "EN": "",
+      "EN": "Choice of barberry rice or dill rice instead of regular rice",
       "DE": "Auswahl Berberitzenreis oder Dillreis statt normalem Reis",
-      "FA": "انتخاب باقالی پلویا زرشک پلوبجای برنج سفید",
+      "FA": "انتخاب باقالی پلو یا زرشک پلو به جای برنج سفید",
       "AR": ""
     },
-    "price": ""
+    "price": "3.00",
+    "pickupPrice": "2.50"
   },
   {
     "id": "26a",
     "categories": [10],
     "name": {
-      "EN": "",
-      "DE": "Frisches Brot",
+      "EN": "fresh bread",
+      "DE": "frisches Brot",
       "FA": "نان تازه",
-      "AR": ""
+      "AR": "خبز طازج"
     },
-    "price": ""
+    "price": "1.5",
+    "pickupPrice": "1.50"
   },
   {
     "id": "26b",
     "categories": [3,10],
     "name": {
-      "EN": "",
+      "EN": "Choice of oriental salad instead of yogurt with cucumbers or yogurt with wild garlic",
       "DE": "Auswahl orientalischer Salat statt Joghurt mit Gurken oder Joghurt mit wildem Knoblauch",
       "FA": "انتخاب سالاد شیرازی بجای ماست وخیار یا موسیر ویا سبزی",
-      "AR": ""
+      "AR": "اختيار سلطة شرقية بدلاً من الزبادي مع الخيار أو الزبادي مع الثوم البري"
     },
-    "price": ""
-  },
-  {
-    "id": "27",
-    "categories": [1,11],
-    "day": [2,4,6],
-    "name": {
-      "EN": "",
-      "DE": "Geschmorte Lammhaxe oder Lammhals (normal), dazu Dillreis mit dicken Bohnen und ein orientalischer Salat (Mittwoch, Freitag und Sonntag)",
-      "FA": "باقالی پلوباماهیچه یا گردن بره (متوسط) باسالاد شیرازی هرچهارشنبه وجمعه و یکشنبه",
-      "AR": ""
-    },
-    "price": ""
+    "price": "2.00",
+    "pickupPrice": "1.50"
   },
   {
     "id": "28",
     "categories": [1],
-    "day": [2,4,6],
     "name": {
-      "EN": "",
-      "DE": "Geschmorte Lammhaxe Oder Lammhals (groß), dazu Dillreis mit dicken Bohnen und ein orientalischer Salat (Mittwoch, Freitag und Sonntag)",
-      "FA": "باقالی پلو با ماهیچه یا گردن بره (بزرگ) با سالاد شیرازی",
-      "AR": ""
+      "EN": "Braised lamb shank (large), served with dill rice with broad beans and an oriental salad",
+      "DE": "Geschmorte Lammhaxe (groß), dazu Dillreis mit dicken Bohnen und ein orientalischer Salat",
+      "FA": "باقالی پلو با ماهیچه (بزرگ) با سالاد شیرازی",
+      "AR": "لحم الضأن المحمّر (ساق أو عنق) الكبير، يقدم مع أرز الشبت والفول الأخضر وسلطة شرقية"
     },
-    "price": ""
+    "price": "18.00",
+    "pickupPrice": "16.00"
   },
   {
     "id": "28a",
     "categories": [1,11],
-    "day": [3],
+    "day": [4],
     "name": {
-      "EN": "",
-      "DE": "Geschmorte Hähnchenkeule oder -brust in Walnuss-Granatapfel-Soße, dazu Basmatireis und ein orientalischer Salat(Donnerstag)",
-      "FA": "چلو خورشت فسنجان با سالاد شیرازی هر پنجشنبه",
-      "AR": ""
+      "EN": "Braised chicken leg or breast in walnut-pomegranate sauce, served with basmati rice and an oriental salad",
+      "DE": "Geschmorte Hähnchenkeule oder -brust in Walnuss-Granatapfel-Soße, dazu Basmatireis und ein orientalischer Salat",
+      "FA": "چلو خورشت فسنجان با سالاد شیرازی",
+      "AR": "ساق الدجاج أو صدر الدجاج المحمّر في صلصة الجوز والرمان، يُقدم مع أرز البسمتي وسلطة شرقية"
     },
-    "price": ""
+    "price": "15.00",
+    "pickupPrice": "13.00"
   },
   {
     "id": "29",
-    "categories": [1,11],
-    "day": [2,4,6],
+    "categories": [1],
     "name": {
-      "EN": "",
-      "DE": "Geschmorte Hähnchenkeule oder –brust, dazu Dillreis mit dicken Bohnen und ein orientalischer Salat (Mittwoch &amp; Freitag und Sonntag)",
-      "FA": "باقالی پلوبا مرغ با سالاد شیرازی هر چهارشنبه و جمعه و یکشنبه",
-      "AR": ""
+      "EN": "Braised chicken leg or breast, served with dill rice with broad beans and an oriental salad",
+      "DE": "Geschmorte Hähnchenkeule oder brust, dazu Dillreis mit dicken Bohnen und ein orientalischer Salat",
+      "FA": "باقالی پلوبا مرغ با سالاد شیرازی",
+      "AR": "ساق الدجاج أو صدر الدجاج المحمّر، يُقدم مع أرز الشبت والفول الأخضر وسلطة شرقية"
     },
-    "price": ""
+    "price": "13.00",
+    "pickupPrice": "12.00"
   },
   {
     "id": "30",
     "categories": [1],
     "name": {
-      "EN": "",
+      "EN": "Braised chicken leg or breast with barberry rice and an oriental salad",
       "DE": "Geschmorte Hähnchenkeule oder -brust mit Berberitzenreis und einem orientalischen Salat",
       "FA": "زرشک پلو با مرغ و سالادشیرازی",
-      "AR": ""
+      "AR": "ساق الدجاج أو صدر الدجاج المحمّر مع أرز الزرشك وسلطة شرقية"
     },
-    "price": ""
+    "price": "13.00",
+    "pickupPrice": "12.00"
   },
   {
     "id": "31",
-    "categories": [1],
-    "day": [1,5],
+    "categories": [1,11],
+    "day": [2,6],
     "name": {
-      "EN": "",
+      "EN": "Persian braised dish (Khoreshte Ghormehsabzi): Cooked veal with red beans in a fine Persian herb sauce, served with basmati rice and an oriental salad",
       "DE": "Persisches Schmorgericht (Khoreshte Ghormehsabzi) Gekochtes Kalbsfleisch mit roten Bohnen in feiner persischer Kräuter-Soße, dazu Basmatireis und ein orientalischer Salat",
-      "FA": "چلو خورشت قورمه سبزی با سالاد شیرازی هرسه شنبه وشنبه",
-      "AR": ""
+      "FA": "چلو خورشت قورمه سبزی با سالاد شیرازی",
+      "AR": "الطبق الفارسي المطهو (خورشت قورمه سبزی): لحم العجل المطهو مع الفاصوليا الحمراء في صلصة عشبية فارسية فاخرة، يُقدم مع أرز البسمتي وسلطة شرقية"
     },
-    "price": ""
+    "price": "13.00",
+    "pickupPrice": "12.00"
   },
   {
     "id": "32",
-    "categories": [1],
-    "day": [0],
+    "categories": [1,11],
+    "day": [1],
     "name": {
-      "EN": "",
+      "EN": "Persian braised dish (Khoreshte Gheimeh Badenjun): Cooked veal with yellow split peas in tomato-saffron sauce and fried eggplants, served with basmati rice and an oriental salad",
       "DE": "Persisches Schmorgericht (Khoreshte Gheimeh Badenjun) Gekochtes Kalbsfleisch mit gelben Halberbsen in Tomaten-Safran- Soße und gebratenen Auberginen, dazu Basmatireis und ein orientalischer Salat",
-      "FA": "چلو خورشت قیمه بادنجان با سالاد شیرازی هردوشنبه",
-      "AR": ""
+      "FA": "چلو خورشت قیمه بادنجان با سالاد شیرازی",
+      "AR": "الطبق الفارسي المطهو (خورشت قیمه بادنجان): لحم العجل المطهو مع البازلاء الصفراء في صلصة الطماطم والزعفران والباذنجان المقلي، يُقدم مع أرز البسمتي وسلطة شرقية"
     },
-    "price": ""
-  },
-  {
-    "id": "33",
-    "categories": [1],
-    "day": [4],
-    "name": {
-      "EN": "",
-      "DE": "",
-      "FA": "چلوخورشت کرفس باسالاد شیرازی هر جمعه",
-      "AR": ""
-    },
-    "price": ""
+    "price": "14.00",
+    "pickupPrice": "13.00"
   },
   {
     "id": "34",
     "categories": [1,2],
     "name": {
-      "EN": "",
+      "EN": "Fine tomato-saffron sauce (Khoreshte Gheimeh) with yellow split peas, dried limes, and fries, served with basmati rice and an oriental salad",
       "DE": "Feine Tomaten-Safran-Soße (Khoreshte Gheimeh) mit gelben Halberbsen, getrockneten Limetten und Pommes, dazu Basmatireis und ein orientalischer Salat",
       "FA": "چلو خورشت قیمه بدون گوشت با سیب زمینی سرخ کرده یا سالاد شیرازی",
-      "AR": ""
+      "AR": "صلصة طماطم وزعفران فاخرة (خورشت قیمه) مع البازلاء الصفراء والليمون المجفف والبطاطا المقلية، يُقدم مع أرز البسمتي وسلطة شرقية"
     },
-    "price": ""
+    "price": "11.00",
+    "pickupPrice": "10.00"
   },
   {
     "id": "35",
     "categories": [1,2],
     "name": {
-      "EN": "",
+      "EN": "Fine Persian herb sauce (Khoreshte Ghormehsabzi) with red beans and dried limes, served with basmati rice and an oriental salad",
       "DE": "Feine persische Kräuter-Soße (Khoreshte Ghormehsabzi) mit roten Bohnen und getrockneten Limetten, dazu Basmatireis und ein orientalischer Salat",
       "FA": "چلو خورشت قورمه سبزی بدون گوشت با سالاد شیرازی",
-      "AR": ""
+      "AR": "صلصة عشبية فارسية فاخرة (خورشت قورمه سبزی) مع الفاصوليا الحمراء والليمون المجفف، يُقدم مع أرز البسمتي وسلطة شرقية"
     },
-    "price": ""
+    "price": "11.00",
+    "pickupPrice": "10.00"
   },
   {
     "id": "36",
     "categories": [1,2],
     "name": {
-      "EN": "",
+      "EN": "Eggplant with garlic-yogurt sauce (Kashke Badenjun), served with basmati rice or bread (7,8)",
       "DE": "Aubergine mit Knoblauch-Quark-Soße (Kashke Badenjun), dazu Basmatireis oder Brot (7,8)",
       "FA": "کشک بادنجان با نان یا برنج",
-      "AR": ""
+      "AR": "باذنجان مع صلصة الثوم والزبادي (كشك بادنجان)، يقدم مع أرز البسمتي أو الخبز (7,8)"
     },
-    "price": ""
+    "price": "9.00",
+    "pickupPrice": "8.00"
   },
   {
     "id": "37",
     "categories": [4],
     "name": {
-      "EN": "",
+      "EN": "Homemade Tiramisu without egg and alcohol (7,8)",
       "DE": "Selbstgemachtes Tiramisu ohne Ei und Alkohol (7,8)",
       "FA": "تیرا میسو بدون تخم مرغ و الکل",
-      "AR": ""
+      "AR": "تيراميسو محلي الصنع بدون بيض وكحول (7,8)"
     },
-    "price": ""
+    "price": "4.50",
+    "pickupPrice": "3.50"
   },
   {
     "id": "38",
     "categories": [4],
     "name": {
-      "EN": "",
+      "EN": "Homemade Persian ice cream (Bastani)",
       "DE": "Selbstgemachtes persisches Eis (Bastani)",
       "FA": "بستنی زعفرانی",
-      "AR": ""
+      "AR": "آيس كريم فارسي محلي الصنع (بستاني)"
     },
-    "price": ""
+    "price": "4.50",
+    "pickupPrice": "3.50"
   },
   {
     "id": "39",
     "categories": [4],
     "name": {
-      "EN": "",
+      "EN": "Persian ice cream with pistachios (7,8,10)",
       "DE": "Persisches Eis mit Pistazien (7,8,10)",
       "FA": "بستنی زعفرانی با پسته",
-      "AR": ""
+      "AR": "آيس كريم فارسي بالفستق (7،8،10)"
     },
-    "price": ""
+    "price": "5.50",
+    "pickupPrice": "4.50"
   },
   {
     "id": "39a",
     "categories": [4],
     "name": {
-      "EN": "",
+      "EN": "Bibi Pistachio ice cream (7,8,10)",
       "DE": "Bibi Pistazieneis (7,8,10)",
       "FA": "بستنی پسته ای بی بی",
-      "AR": ""
+      "AR": "آيس كريم الفستق بيبي (7،8،10)"
     },
-    "price": ""
+    "price": "6.00",
+    "pickupPrice": "5.00"
   },
   {
     "id": "40",
     "categories": [5],
     "name": {
-      "EN": "",
+      "EN": "Yogurt (8)",
       "DE": "Joghurt (8)",
       "FA": "ماست",
-      "AR": ""
+      "AR": "زبادي (8)"
     },
-    "price": ""
+    "price": "3.00",
+    "pickupPrice": "2.50"
   },
   {
     "id": "40b",
     "categories": [5],
     "name": {
-      "EN": "",
+      "EN": "Yogurt (8)(Large)",
       "DE": "Joghurt (8)(Groß)",
       "FA": "ماست بزرگ",
-      "AR": ""
+      "AR": "زبادي (8)(كبير)"
     },
-    "price": ""
+    "price": "4.00",
+    "pickupPrice": "3.50"
   },
   {
     "id": "41",
     "categories": [5],
     "name": {
-      "EN": "",
+      "EN": "Yogurt with cucumbers (Mastokhiar) (8)",
       "DE": "Joghurt mit Gurken (Mastokhiar) (8)",
       "FA": "ماست و خیار",
-      "AR": ""
+      "AR": "زبادي مع الخيار (ماستوخيار) (8)"
     },
-    "price": ""
+    "price": "3.00",
+    "pickupPrice": "2.50"
   },
   {
     "id": "41b",
     "categories": [5],
     "name": {
-      "EN": "",
+      "EN": "Yogurt with cucumbers (Mastokhiar) (8) (Large)",
       "DE": "Joghurt mit Gurken (Mastokhiar) (8) (Groß)",
       "FA": "ماست و خیار بزرگ",
-      "AR": ""
+      "AR": "زبادي مع الخيار (ماستوخيار) (8) (كبير)"
     },
-    "price": ""
+    "price": "4.00",
+    "pickupPrice": "3.50"
   },
   {
     "id": "42",
     "categories": [5],
     "name": {
-      "EN": "",
+      "EN": "Yogurt with wild garlic (Mastomusir) (8)",
       "DE": "Joghurt mit wildem Knoblauch (Mastomusir) (8)",
       "FA": "ماست و موسیر",
-      "AR": ""
+      "AR": "زبادي مع الثوم البري (ماستوموسير) (8)"
     },
-    "price": ""
+    "price": "3.00",
+    "pickupPrice": "2.50"
   },
   {
     "id": "42b",
     "categories": [5],
     "name": {
-      "EN": "",
+      "EN": "Yogurt with wild garlic (Mastomusir) (8) (Large)",
       "DE": "Joghurt mit wildem Knoblauch (Mastomusir) (8) (Groß)",
       "FA": "ماست و موسیر بزرگ",
-      "AR": ""
+      "AR": "زبادي مع الثوم البري (ماستوموسير) (8) (كبير)"
     },
-    "price": ""
+    "price": "4.00",
+    "pickupPrice": "3.50"
   },
   {
     "id": "43",
     "categories": [5],
     "name": {
-      "EN": "",
+      "EN": "Pickled vegetables (Torshi)",
       "DE": "Sauer eingelegtes Gemüse (Torshi)",
       "FA": "ترشی",
-      "AR": ""
+      "AR": "خضروات مخللة (تورشي)"
     },
-    "price": ""
+    "price": "3.00",
+    "pickupPrice": "2.50"
   },
   {
     "id": "43b",
     "categories": [5],
-    "name": {
-      "EN": "",
+    "name":{
+      "EN": "Pickled vegetables (Torshi) (Large)",
       "DE": "Sauer eingelegtes Gemüse (Torshi) (Groß)",
       "FA": "ترشی بزرگ",
-      "AR": ""
+      "AR": "خضروات مخللة (تورشي) (كبير)"
     },
-    "price": ""
+    "price": "4.00",
+    "pickupPrice": "3.50"
   },
   {
     "id": "44",
     "categories": [5],
     "name": {
-      "EN": "",
+      "EN": "Salty pickled vegetables",
       "DE": "Salzig eingelegtes Gemüse",
       "FA": "شور مخلوط",
-      "AR": ""
+      "AR": "خضروات مخللة مالحة"
     },
-    "price": ""
+    "price": "3.00",
+    "pickupPrice": "2.50"
   },
   {
     "id": "44b",
     "categories": [5],
-    "name": {
-      "EN": "",
+    "name":{
+      "EN": "Salty pickled vegetables (Large)",
       "DE": "Salzig eingelegtes Gemüse (Groß)",
       "FA": "شور مخلوط بزرگ",
-      "AR": ""
+      "AR": "خضروات مخللة مالحة (كبير)"
     },
-    "price": ""
+    "price": "4.00",
+    "pickupPrice": "3.50"
   },
   {
     "id": "45",
     "categories": [5],
     "name": {
-      "EN": "",
+      "EN": "Fresh herbs (Sabzi)",
       "DE": "Frische Kräuter (Sabzi)",
       "FA": "سبزی",
-      "AR": ""
+      "AR": "أعشاب طازجة (سبزي)"
     },
-    "price": ""
+    "price": "3.00",
+    "pickupPrice": "2.50"
   },
   {
     "id": "45b",
     "categories": [5],
     "name": {
-      "EN": "",
+      "EN": "Fresh herbs (Sabzi) (Large)",
       "DE": "Frische Kräuter (Sabzi) (Groß)",
       "FA": "سبزی بزرگ",
-      "AR": ""
+      "AR": "أعشاب طازجة (سبزي) (كبير)"
     },
-    "price": ""
+    "price": "4.00",
+    "pickupPrice": "3.50"
   },
   {
     "id": "46",
     "categories": [5],
     "name": {
-      "EN": "",
-      "DE": "Schälchen große Oliven ",
+      "EN": "Bowl of large olives",
+      "DE": "Schälchen große Oliven",
       "FA": "زیتون",
-      "AR": ""
+      "AR": "صحن من الزيتون الكبيرة"
     },
-    "price": ""
+    "price": "4.00",
+    "pickupPrice": "3.50"
   },
   {
     "id": "46b",
     "categories": [5],
     "name": {
-      "EN": "",
+      "EN": "Bowl of large olives (Large)",
       "DE": "Schälchen große Oliven (Groß)",
       "FA": "زیتون بزرگ",
-      "AR": ""
+      "AR": "صحن من الزيتون الكبيرة (كبير)"
     },
-    "price": ""
+    "price": "6.00",
+    "pickupPrice": "5.00"
   },
   {
     "id": "47",
     "categories": [5],
     "name": {
-      "EN": "",
+      "EN": "Pickled cucumbers",
       "DE": "Salzgurken",
       "FA": "خیار شور",
-      "AR": ""
+      "AR": "خيار مخلل مالح"
     },
-    "price": ""
+    "price": "3.00",
+    "pickupPrice": "2.50"
   },
   {
     "id": "47b",
     "categories": [5],
     "name": {
-      "EN": "",
+      "EN": "Pickled cucumbers (Large)",
       "DE": "Salzgurken (Groß)",
       "FA": "خیار شور بزرگ",
-      "AR": ""
+      "AR": "خيار مخلل مالح (كبير)"
     },
-    "price": ""
+    "price": "4.00",
+    "pickupPrice": "3.50"
   },
   {
     "id": "48",
     "categories": [5],
     "name": {
-      "EN": "",
+      "EN": "Spicy sauce according to Bibi's recipe",
       "DE": "Scharfe Sauce nach Bibi´s Rezept",
       "FA": "سس تند بی بی",
-      "AR": ""
+      "AR": "صلصة حارة وفقًا لوصفة بيبي"
     },
-    "price": ""
+    "price": "2.00",
+    "pickupPrice": "1.50"
   },
   {
     "id": "48b",
     "categories": [5],
     "name": {
-      "EN": "",
+      "EN": "Spicy sauce according to Bibi's recipe (Large)",
       "DE": "Scharfe Sauce nach Bibi´s Rezept (Groß)",
       "FA": "سس تند بی بی بزرگ",
-      "AR": ""
+      "AR": "صلصة حارة وفقًا لوصفة بيبي (كبير)"
     },
-    "price": ""
+    "price": "3.00",
+    "pickupPrice": "2.50"
   },
   {
     "id": "49",
     "categories": [5],
     "name": {
-      "EN": "",
+      "EN": "Mushroom cream sauce (7,8)",
       "DE": "Champignon-Creme-Soße (7,8)",
       "FA": "سس قارچ",
-      "AR": ""
+      "AR": "صلصة كريمة الفطر (7،8)"
     },
-    "price": ""
+    "price": "3.00",
+    "pickupPrice": "2.50"
   },
   {
     "id": "49b",
     "categories": [5],
     "name": {
-      "EN": "",
+      "EN": "Mushroom cream sauce (7,8) (Large)",
       "DE": "Champignon-Creme-Soße (7,8) (Groß)",
       "FA": "سس قارچ بزرگ",
-      "AR": ""
+      "AR": "صلصة كريمة الفطر (7،8) (كبير)"
     },
-    "price": ""
+    "price": "4.00",
+    "pickupPrice": "3.50"
   },
   {
     "id": "52",
     "categories": [6],
     "name": {
-      "EN": "",
+      "EN": "Coca Cola, Coca Cola Light, Coca Cola Zero, Sprite, Fanta, Mezzo Mix 0.33L bottle (1,2,3)",
       "DE": "Coca Cola, Coca Cola Light, Coca Cola Zero, Sprite, Fanta, Mezzo Mix 0,33l Flasche (1,2,3)",
       "FA": "کولا،فانتا،اسپرایت،کولالایت،کولازیروشیشه ای 330 سی سیبدون گروِیی",
-      "AR": ""
+      "AR": "كوكا كولا، كوكا كولا لايت، كوكا كولا زيرو، سبرايت، فانتا، ميزو ميكس زجاجة 0.33 لتر (1،2،3)"
     },
-    "price": ""
+    "price": "3.00",
+    "pickupPrice": "3.00"
   },
   {
     "id": "53",
     "categories": [6],
     "name": {
-      "EN": "",
+      "EN": "Coca Cola, Coca Cola Light, Coca Cola Zero, Sprite, Fanta, Mezzo Mix 0.2L bottle (1,2,3)",
       "DE": "Coca Cola, Coca Cola Light, Coca Cola Zero, Sprite, Fanta, Mezzo Mix 0,2l Flasche (1,2,3)",
       "FA": "کولا، فانتا، اسپرایت ، کولا لایت ، کولا زیرو شیشه ای 200 سی سی بدون گرویی",
-      "AR": ""
+      "AR": "كوكا كولا، كوكا كولا لايت، كوكا كولا زيرو، سبرايت، فانتا، ميزو ميكس زجاجة 0.2 لتر (1،2،3)"
     },
-    "price": ""
+    "price": "2.50",
+    "pickupPrice": "2.50"
   },
   {
     "id": "54",
     "categories": [6],
     "name": {
-      "EN": "",
+      "EN": "Dugh or Ayran 0.25L (8)",
       "DE": "Dugh oder Ayran 0,25l (8)",
-      "FA": "دوغ گازداریابدون گاز 250 سیسی",
-      "AR": ""
+      "FA": "دوغ گازدار یا بدون گاز 250 سیسی",
+      "AR": "دوغ أو عيران 0.25 لتر (8)"
     },
-    "price": ""
-  },
-  {
-    "id": "55",
-    "categories": [6],
-    "name": {
-      "EN": "",
-      "DE": "Dugh oder Ayran 0,4l (8)",
-      "FA": "دوغ گازدار یا بدون گاز 400 سی سی",
-      "AR": ""
-    },
-    "price": ""
+    "price": "3.00",
+    "pickupPrice": "6.00"
   },
   {
     "id": "57",
     "categories": [6],
     "name": {
-      "EN": "",
-      "DE": "Apfelsaft, Orangensaft 0,25l",
-      "FA": "آب سیب یاپرتقال 250 سیسی",
-      "AR": ""
+      "EN": "Apple juice, orange juice 0.33L",
+      "DE": "Apfelsaft, Orangensaft 0,33l",
+      "FA": "آب سیب یا پرتقال 330 سیسی",
+      "AR": "عصير التفاح، عصير البرتقال 0.33 لتر"
     },
-    "price": ""
-  },
-  {
-    "id": "58",
-    "categories": [6],
-    "name": {
-      "EN": "",
-      "DE": "Apfelsaft, Orangensaft 0,4l",
-      "FA": "آب سیب یاپرتقال 400 سیسی",
-      "AR": ""
-    },
-    "price": ""
+    "price": "2.5",
+    "pickupPrice": "3.00"
   },
   {
     "id": "59",
     "categories": [6],
     "name": {
-      "EN": "",
+      "EN": "Mineral water 0.5L",
       "DE": "Mineralwasser 0,5l",
       "FA": "آب معدنی بطری 500 سی سی",
-      "AR": ""
+      "AR": "ماء معدني 0.5 لتر"
     },
-    "price": ""
+    "price": "2.00",
+    "pickupPrice": "2.00"
   },
   {
-    "id": "50",
+    "id": "61",
     "categories": [7],
     "name": {
-      "EN": "",
+      "EN": "Nespresso coffee",
       "DE": "Nespresso Kaffee",
       "FA": "قهوه یا اسپرسو (از کپسول نسپرسو)",
-      "AR": ""
+      "AR": "قهوة نسبريسو"
     },
-    "price": ""
+    "price": "2.50",
+    "pickupPrice": "2.50"
   },
   {
-    "id": "51",
+    "id": "62",
     "categories": [7],
     "name": {
-      "EN": "",
+      "EN": "varieties of herbal tea or fruit tea",
       "DE": "frischer minztee",
       "FA": "انواع چای گیاهی یا چای میوه",
-      "AR": ""
+      "AR": "أصناف من الشاي العشبي أو شاي الفواكه"
     },
-    "price": ""
+    "price": "3.00",
+    "pickupPrice": "3.00"
   },
   {
     "id": "63",
     "categories": [7],
     "name": {
-      "EN": "",
+      "EN": "saffron tea",
       "DE": "safrantee",
       "FA": "چای زعفران",
-      "AR": ""
+      "AR": "شاي الزعفران"
     },
-    "price": ""
+    "price": "4.00",
+    "pickupPrice": "4.00"
   }
 ]

@@ -9,6 +9,8 @@ const root = ReactDOM.createRoot(
     document.getElementById('root') as HTMLElement
 );
 
+const basename = process.env.NODE_ENV === 'production' ? '/bibi-restaurant' : '/';
+
 root.render(
     <React.StrictMode>
         <BrowserRouter>
