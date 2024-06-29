@@ -42,7 +42,7 @@ const AddressPage: FC<PropTypes> = ({activeLanguage}) => {
 
     return (
         <Style>
-            <p>Halemweg 17, 13627 Berlin, Germany Tel:030 52669566</p>
+            <p>{restaurantData.address} Tel:{restaurantData.tel}</p>
             <div className={'workingHoursInWeek'}>
                 {restaurantData.workingHours.map((workingDay,index) => {
                     return <div>
