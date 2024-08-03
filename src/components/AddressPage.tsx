@@ -1,8 +1,12 @@
 import {FC} from "react";
 import styled from "styled-components";
 import restaurantData from '../dataset/restaurantData.json';
+import translations from '../dataset/translations.json';
 import days from "../dataset/days.json";
 import {languagesTypes} from "../types";
+import {Link} from "react-router-dom";
+import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
+import {faLocationDot} from "@fortawesome/free-solid-svg-icons";
 
 const Style = styled.div`
   display: flex;
@@ -10,6 +14,19 @@ const Style = styled.div`
   align-items: center;
   justify-content: center;
   margin: 0 auto 4rem auto;
+    .addressNButton{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: .5rem;
+        padding: .5rem 1rem;
+        box-sizing: border-box;
+        a{
+            display: flex;
+            gap: .5rem;
+            align-items: center;
+        }
+    }
 
   iframe {
     width: 100%;
@@ -42,9 +59,17 @@ const AddressPage: FC<PropTypes> = ({activeLanguage}) => {
 
     return (
         <Style>
-            <p>{restaurantData.address} Tel:{restaurantData.tel}</p>
+            <div className={'addressNButton'}>
+                <p>{restaurantData.address}</p>
+                <p> Tel:{restaurantData.tel}</p>
+
+                <Link className={'btn btn-primary'} to={restaurantData.mapLink} target={"_blank"}>
+                    <FontAwesomeIcon icon={faLocationDot}/>
+                    {translations?.["Map"]?.[activeLanguage]}
+                </Link>
+            </div>
             <div className={'workingHoursInWeek'}>
-                {restaurantData.workingHours.map((workingDay,index) => {
+                {restaurantData.workingHours.map((workingDay, index) => {
                     return <div>
                         {/*//@ts-ignore*/}
                         <p>{days[workingDay.day].name[activeLanguage]}</p>
@@ -57,9 +82,10 @@ const AddressPage: FC<PropTypes> = ({activeLanguage}) => {
             {/*    aria-hidden="false">*/}
             {/*</iframe>*/}
             <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1213.4460288771138!2d13.29781360929562!3d52.53538714002195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a856b5a5ecb07d%3A0xbb85359b2eedd7cb!2sBibi%20Restaurant!5e0!3m2!1sen!2sde!4v1719654790081!5m2!1sen!2sde"
-                aria-hidden="false"></iframe>
+                src={restaurantData.mapEmbedUrl}
+                aria-hidden="false">
 
+            </iframe>
         </Style>
     )
 };
