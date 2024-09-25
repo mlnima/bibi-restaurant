@@ -328,7 +328,7 @@
     "categories": [1],
     "name": {
       "EN": "Braised lamb shank (large), served with dill rice with broad beans and an oriental salad",
-      "DE": "Geschmorte Lammhaxe (groß), dazu Dillreis mit dicken Bohnen und ein orientalischer Salat",
+      "DE": "Geschmorte Lammhaxe (groß), dazu Dillreis mit dicken Bohnen und einem orientalischer Salat",
       "FA": "باقالی پلو با ماهیچه (بزرگ) با سالاد شیرازی",
       "AR": "لحم الضأن المحمّر (ساق أو عنق) الكبير، يقدم مع أرز الشبت والفول الأخضر وسلطة شرقية"
     },
@@ -365,7 +365,7 @@
     "categories": [1],
     "name": {
       "EN": "Braised chicken leg or breast with barberry rice and an oriental salad",
-      "DE": "Geschmorte Hähnchenkeule oder -brust mit Berberitzenreis und einem orientalischen Salat",
+      "DE": "Geschmorte Hähnchenkeule mit Berberitzenreis und einem orientalischen Salat",
       "FA": "زرشک پلو با مرغ و سالادشیرازی",
       "AR": "ساق الدجاج أو صدر الدجاج المحمّر مع أرز الزرشك وسلطة شرقية"
     },
