@@ -61,7 +61,7 @@ const AddressPage: FC<PropTypes> = ({activeLanguage}) => {
         <Style>
             <div className={'addressNButton'}>
                 <p>{restaurantData.address}</p>
-                <p> Tel:{restaurantData.tel}</p>
+                <p> Tel: {restaurantData.tel}</p>
 
                 <Link className={'btn btn-primary'} to={restaurantData.mapLink} target={"_blank"}>
                     <FontAwesomeIcon icon={faLocationDot}/>
